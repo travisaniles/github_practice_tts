@@ -1,0 +1,89 @@
+/*Here we go stylesheet!*/
+p {
+    color: red;
+  font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}    
+h1 {
+    color: blue;
+font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+}
+h2 {
+    color: black
+   font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+}
+h3 {
+    color:green;
+    font-family: 'Ubuntu', sans-serif;
+     font-size: 35px;
+}
+h4 {
+    color: grey;
+    font-family: 'Ubuntu', sans-serif;
+     font-size: 30;
+}
+div p {
+    color: #00a4e4;
+    font-size: 10px;
+}
+/*.class_test {*/
+    color: yellow;
+    font-size: 30px;
+}
+/*#id_test {*/
+    color: yellow;
+    font-size: 35px;
+}
+.hover_test:hover {
+    font-size: 50px;
+}
+a {
+   text-decoration: none;
+    border: 2px;
+    border-radius: 10px;
+    border-color: #00a4e4;
+}
+a:visited {
+    font-color: black;
+    font-size: 59px;
+}
+.clicked:visited {
+    color: #00a4e4;
+    font-size: 10;
+}      
+body {
+    background-image: url(http://images5.fanpop.com/image/photos/28200000/-Coat-of-arms-of-the-Colonial-Government-of-the-Twelve-Colonies-COBOL-BSG-battlestar-galactica-28232928-1920-1200.png);
+background-repeat: repeat-y;
+}
+p {
+    font-size: 2em;
+    text-align: center;
+}
+
+div {
+    height: 50px;
+    width: auto;
+    border-color: #6495ED ;
+    border-width: 2px;
+    border-style: solid;
+    background: #BCD2EE ;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.button {
+    text-align: center;
+    color: #2952a3 ;
+    font-size: 1em;
+}
+
+div:hover {
+    background-color: #FF3300 ;
+}
